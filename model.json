@@ -1,0 +1,6 @@
+{
+  "name": "Decision tree",
+  "accuracy": 0.68,
+  "Features": 8,
+  "Trees": 10
+}
