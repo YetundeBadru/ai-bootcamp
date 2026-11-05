@@ -1,3 +1,5 @@
+# helper functions for the bootcamp
+
 def average(numbers):
     return sum(numbers) / len(numbers)
 
